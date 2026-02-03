@@ -1,55 +1,57 @@
-<h1 align="center">Hi 👋, I'm Gaurav Rawat</h1>
-<h3 align="center">A passionate Data Engineer / Software Engineer</h3>
+# Hi 👋, I'm Gaurav Rawat
 
-<p align="center">
-  🚀 Turning data into scalable systems & insights  
-</p>
+### Data Engineer / Software Engineer
 
----
-
-### 👨‍💻 About Me
-- 🔭 Currently working as **Software Engineer 2 – Data**
-- 🏗️ Building **scalable data pipelines, streaming systems & ETL workflows**
-- 💼 Open to **collaborating on open-source & data engineering content**
-- ✍️ Love sharing learnings via **blogs, demos, and architecture breakdowns**
-- ⚡ Fun fact: I enjoy **optimizing pipelines more than writing SQL 😄**
+Building scalable data systems • Streaming • ETL • Cloud
 
 ---
 
-### 🔥 Coding Activity & Streak
-- 📌 **Daily code commits** (Data Engineering • Spark • Kafka • Python • Scala)
-- 📈 Consistently pushing **production-grade code & experiments**
-- 🧠 Focused on **clean architecture, performance & scalability**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
+## 👨‍💻 About Me
+- 🔭 Working as **Software Engineer 2 – Data**
+- 🏗️ Designing and building **reliable, scalable data pipelines**
+- ⚙️ Hands-on with **Spark, Kafka, Streaming & Lakehouse**
+- 💼 Open to **collaborations and community content**
+- ✍️ Sharing learnings via **code, demos, and write-ups**
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+## 🔥 Coding Consistency
+- 📌 **Daily code pushes** (work + side projects)
+- 📈 Focused on **clean, production-grade commits**
+- 🧠 Improving **performance, scalability, and system design**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+> _Consistency beats intensity — shipping every day._
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, Scala, Java, SQL, Go  
-- **Big Data:** Apache Spark, Kafka, Flink, Hudi, Delta Lake  
-- **Cloud:** AWS (S3, EMR, Glue, Lambda)  
-- **Databases:** PostgreSQL, MySQL, DynamoDB  
-- **DevOps:** Docker, Kubernetes, GitHub Actions  
-- **Monitoring:** Prometheus, Grafana  
+## 🛠️ Tech Stack
+**Languages:** Python, Scala, SQL,  
+**Big Data:** Apache Spark, Kafka, Hudi, Delta Lake  
+**Cloud:** AWS
+**DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins
+**Monitoring:** Prometheus, Grafana  
 
 ---
 
-### 🌱 What I’m Learning Now
-- Advanced **Spark & Streaming internals**
-- **Lakehouse architectures** (Hudi / Delta / Iceberg)
-- **System design for data platforms**
+## 🔥 Coding Streak
+> Lightweight streak badge (loads faster than full stats)
 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gaurav0807&theme=dark)](https://git.io/streak-stats)
+
+
+
+
+---
+
+## 🌱 Currently Exploring
+- Advanced **Spark internals**
+- **Streaming-first architectures**
+- **Data platform system design**
+
+---
+
+## 🤝 Let’s Collaborate
+- 💬 Open to **open-source & content creation**
+- ⭐ Star repositories if you find them useful

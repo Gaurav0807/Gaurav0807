@@ -53,12 +53,3 @@
 - **Lakehouse architectures** (Hudi / Delta / Iceberg)
 - **System design for data platforms**
 
----
-
-### 🤝 Let’s Connect
-- 💬 Open for **tech discussions & collaborations**
-- 📫 Reach me via **LinkedIn / GitHub Issues / Discussions**
-
----
-
-⭐ *If you like my work, consider giving a star — it keeps me motivated!*

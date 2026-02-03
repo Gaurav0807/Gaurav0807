@@ -27,8 +27,8 @@ Building scalable data systems • Streaming • ETL • Cloud
 ## 🛠️ Tech Stack
 **Languages:** Python, Scala, SQL,  
 **Big Data:** Apache Spark, Kafka, Hudi, Delta Lake  
-**Cloud:** AWS
-**DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins
+**Cloud:** AWS   
+**DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins  
 **Monitoring:** Prometheus, Grafana  
 
 ---

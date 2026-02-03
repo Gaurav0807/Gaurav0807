@@ -49,9 +49,3 @@ Building scalable data systems • Streaming • ETL • Cloud
 - Advanced **Spark internals**
 - **Streaming-first architectures**
 - **Data platform system design**
-
----
-
-## 🤝 Let’s Collaborate
-- 💬 Open to **open-source & content creation**
-- ⭐ Star repositories if you find them useful

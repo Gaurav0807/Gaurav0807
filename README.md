@@ -33,18 +33,6 @@ Building scalable data systems • Streaming • ETL • Cloud
 
 ---
 
-## 🔥 Coding Streak
-> Lightweight streak badge (loads faster than full stats)
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gaurav0807&theme=dark)](https://git.io/streak-stats)
-
-
-
-
----
-
 ## 🌱 Currently Exploring
 - Advanced **Spark internals**
 - **Streaming-first architectures**

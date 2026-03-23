@@ -3,6 +3,7 @@
 ### Data Engineer / Software Engineer
 
 Building scalable data systems • Streaming • ETL • Cloud
+📫 Here's how you can reach me:  https://www.linkedin.com/in/gauravrawat1412/
 
 ---
 

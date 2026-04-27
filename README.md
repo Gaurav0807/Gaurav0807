@@ -1,12 +1,14 @@
 # Hi 👋, I'm Gaurav Rawat
 
-### Data Engineer / Software Engineer
+### 🚀 Data Engineer | Software Engineer
 
 Building scalable data systems • Streaming • ETL • Cloud
 
-
-
-📫 Here's how you can reach me:  https://www.linkedin.com/in/gauravrawat1412/
+<p align="left">
+  <a href="https://www.linkedin.com/in/gauravrawat1412/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Rawat-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
@@ -19,25 +21,63 @@ Building scalable data systems • Streaming • ETL • Cloud
 
 ---
 
-## 🔥 Coding Consistency
+## 🔥 Engineering Mindset
 - 📌 **Daily code pushes** (work + side projects)
 - 📈 Focused on **clean, production-grade commits**
-- 🧠 Improving **performance, scalability, and system design**
+- 🧠 Improving **performance, scalability, and distributed systems**
+- ⚡ Strong focus on **real-world problem solving**
 
 > _Consistency beats intensity — shipping every day._
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, Scala, SQL,  
-**Big Data:** Apache Spark, Kafka, Hudi, Delta Lake  
-**Cloud:** AWS   
-**DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins  
-**Monitoring:** Prometheus, Grafana  
+
+### 💻 Languages
+`Python` `Scala` `SQL`
+
+### ⚡ Big Data & Streaming
+`Apache Spark` `Kafka` `Hudi` `Delta Lake`
+
+### ☁️ Cloud & Infrastructure
+`AWS` `Docker` `Kubernetes`
+
+### 🔁 DevOps & CI/CD
+`GitHub Actions` `Jenkins`
+
+### 📊 Monitoring
+`Prometheus` `Grafana`
 
 ---
 
 ## 🌱 Currently Exploring
-- Advanced **Spark internals**
-- **Streaming-first architectures**
-- **Data platform system design**
+- 🔍 Advanced **Spark internals**
+- ⚡ **Streaming-first architectures**
+- 🏗️ **Data platform system design**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravrawat1412&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravrawat1412&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/gauravrawat1412/gauravrawat1412/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/gauravrawat1412/
+- 🚀 Open to collaboration, ideas, and building impactful systems
+
+---
+
+⭐️ _If you like my work, consider following or connecting!_

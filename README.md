@@ -60,8 +60,8 @@ Building scalable data systems • Streaming • ETL • Cloud
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravrawat1412&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravrawat1412&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav0807&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav0807&theme=tokyonight" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ Building scalable data systems • Streaming • ETL • Cloud
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/gauravrawat1412/gauravrawat1412/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/Gaurav0807/Gaurav0807/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
